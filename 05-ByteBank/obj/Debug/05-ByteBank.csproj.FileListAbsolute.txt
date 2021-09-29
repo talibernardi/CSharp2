@@ -1,0 +1,7 @@
+C:\Users\talita.silva\source\repos\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.exe.config
+C:\Users\talita.silva\source\repos\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.exe
+C:\Users\talita.silva\source\repos\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.pdb
+C:\Users\talita.silva\source\repos\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.csproj.AssemblyReference.cache
+C:\Users\talita.silva\source\repos\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\talita.silva\source\repos\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.exe
+C:\Users\talita.silva\source\repos\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.pdb
